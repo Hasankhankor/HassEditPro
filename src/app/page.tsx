@@ -24,8 +24,8 @@ export default function Home() {
             Revolutionize Your Video Editing Experience
           </h1>
           <p className="text-lg text-gray-200 mb-8">
-            Explore a comprehensive suite of powerful tools and intuitive features meticulously designed to streamline your video editing workflow. Whether you're a novice just starting or an experienced professional, our platform offers a robust set of capabilities to help you create stunning videos with ease and efficiency. From advanced editing functions and seamless integration options to user-friendly interfaces and customizable templates, every aspect of our service is crafted to enhance your editing experience. Dive into a world of creativity where you can effortlessly transform your raw footage into polished, professional-quality videos. Discover the perfect blend of innovation and simplicity that makes video editing not just a task, but a delightful creative journey.
-          </p>
+  Explore a comprehensive suite of powerful tools and intuitive features meticulously designed to streamline your video editing workflow. Whether you&apos;re a novice just starting or an experienced professional, our platform offers a robust set of capabilities to help you create stunning videos with ease and efficiency.
+</p>
           <div className="group max-w-md mx-auto">
             <a
               href="/editor"
