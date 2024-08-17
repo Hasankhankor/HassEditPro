@@ -155,7 +155,7 @@ export default function Home() {
                    that helps you Edit Videos.
                 </h1>
                 <p className="mt-2 text-lg text-gray-600 sm:mt-6 font-inter">
-                HassEditPro is an intuitive video editor designed to empower both professional editors and hobbyists. Whether you're trimming clips, adding transitions, or enhancing audio, HassEditPro provides a seamless editing experience with powerful tools at your fingertips.
+                HassEditPro is an intuitive video editor designed to empower both professional editors and hobbyists.
                 </p>
 
                 <a
